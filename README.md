@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @jesusedu
+- 👋 Hi, I’m Jesus Eduardo Bautista
 - 👀 I’m interested in JAVA developer and Javascript developer
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning about VUEJS
 - 📫 How to reach me 
-https://www.linkedin.com/in/jes%C3%BAs-eduardo-bautista-gudi%C3%B1o-713741131
+https://linkedin.com/in/jesús-eduardo-bautista-gudiño-713741131
+https://jebg.duckdns.org/
 
 
